@@ -1,7 +1,4 @@
-# intro-mssa
-Intro repository for MSSA CCAD17.
-
-## About Me
+# About Me
 **Name**: Brennan Long
 
 **Current Studies**: BS in Comp. Sci; MSSA CCAD17 (Cloud App Dev)
