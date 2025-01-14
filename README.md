@@ -3,7 +3,7 @@
 
 **Current Studies**: BS in Comp. Sci; MSSA CCAD17 (Cloud App Dev)
 
-**Experience**: Noob
+**Experience**: ==Noob==
 
 **Contact Info**: E-mail: brennanmlong@outlook.com
 
