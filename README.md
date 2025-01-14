@@ -9,5 +9,5 @@
 
 **Availabilites**: Mon-Fri, 0900-1600 EST
 
-[Static Badge](https://img.shields.io/badge/:badgeContent)
+![VbGIF](https://github.com/user-attachments/assets/794a8345-ff51-424b-896d-0dced65e7c61)
 
