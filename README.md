@@ -9,5 +9,5 @@
 
 **Availabilites**: Mon-Fri, 0900-1600 EST
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[Static Badge](https://img.shields.io/badge/:badgeContent)
 
