@@ -1,8 +1,6 @@
-# About Me
-
 ---
 
-**Current Studies**: 
+#**Current Studies**: 
 
 ---
 - BS Computer Science | Columbus State University (Exp. 2027)
@@ -10,7 +8,7 @@
 
 ---
 
-**Experience**: 
+##**Experience**: 
 
 ---
 
@@ -18,7 +16,7 @@ Noob.
 
 ---
 
-**Contact Info**: 
+###**Contact Info**: 
 
 ---
 
@@ -29,7 +27,7 @@ Noob.
 
 ---
 
-**Availabilites**: 
+###**Availabilites**: 
 - Mon-Fri, 0900-1600 EST
 - Sat-Sun, As Needed/Reply
 
@@ -37,7 +35,7 @@ Noob.
 
 ---
 
-## *My experience so far:*
+#### *My experience so far:*
 
 ---
 
