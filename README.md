@@ -5,8 +5,8 @@
 **Experience**: Noob. 
 
 **Contact Info**: 
-- E-mail: brennanmlong@outlook.com
-- LinkedIn: linkedin.com/in/brennan-m-long
+- [Email](brennanmlong@outlook.com)
+- [LinkedIn](www.linkedin.com/in/brennan-m-long)
 
 **Availabilites**: Mon-Fri, 0900-1600 EST
 
