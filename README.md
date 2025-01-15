@@ -25,8 +25,8 @@ Noob.
 - Git
 
 ### **Contact Info**:
-- [Professional E-mail](brennanmlong@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/brennan-m-long)
+- [Professional E-mail](mailto:brennanmlong@outlook.com)
+- [LinkedIn!](https://www.linkedin.com/in/brennan-m-long)
 - [HackerRank](https://www.hackerrank.com/profile/brennanmlong)
 - [LeetCode](https://leetcode.com/u/brennanmlong/)
 
