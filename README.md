@@ -1,6 +1,7 @@
 # About Me
-**Current Studies**: BS in Comp. Sci; MSSA CCAD17 (Cloud App Dev)
-
+**Current Studies**: 
+- CompSci through Columbus State University
+- Microsoft Software & Systems Academy (MSSA) CCAD17 Student
 **Experience**: Noob. 
 
 **Contact Info**: E-mail: brennanmlong@outlook.com
