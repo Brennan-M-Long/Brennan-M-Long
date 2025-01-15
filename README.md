@@ -3,7 +3,8 @@
 - BS Computer Science | Columbus State University (Exp. 2027)
 - Microsoft Software & Systems Academy (MSSA) CCAD17 Student
 
-**Experience**: Noob. 
+**Experience**: 
+Noob. 
 
 **Contact Info**: 
 - E-mail: brennanmlong@outlook.com
