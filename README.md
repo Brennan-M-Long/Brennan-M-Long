@@ -4,6 +4,7 @@ U.S. Army combat veteran with 9 years of federal service; active secret. Extreme
 
 ### **Current Studies**: 
 - BS Computer Science | Columbus State University (Exp. 2027)
+  - Former Cybersecurity student... Not a fan of the discipline. Don't know how you CSO guys and gals do it.
 - Microsoft Software & Systems Academy (MSSA) CCAD17 Student
 
 ### **Experience**: 
@@ -13,12 +14,14 @@ Noob.
 ### **Technical Skills... with some desciption**:
 
 - C#
-  - Data structures & Algorithms
+  - Data structures & Algorithms (*most of my knowledge currently derived from my MSSA CCAD cohort*)
 - SQL
+  - MySQL, Oracle, general query knowledge and development
 - Azure
 - ASP.NET
 - Visual Studio Community/Code
 - Bash
+  - *99.9% Git usage*
 - Git
 
 ### **Contact Info**:
