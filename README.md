@@ -26,7 +26,7 @@ Noob.
 
 ### **Contact Info**:
 - [Professional E-mail](mailto:brennanmlong@outlook.com)
-- [LinkedIn!](https://www.linkedin.com/in/brennan-m-long)
+- [LinkedIn](https://www.linkedin.com/in/brennan-m-long)
 - [HackerRank](https://www.hackerrank.com/profile/brennanmlong)
 - [LeetCode](https://leetcode.com/u/brennanmlong/)
 
