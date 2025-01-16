@@ -5,7 +5,7 @@
 
 ## A Little About Me:
 
-U.S. Army combat veteran with 9 years of federal service; active secret. Extremely passionate for exploring application development and workflows to make the world a more efficient and collaborative place! Infrequent guitar player and console gamer. Husband and father of a loving, overly supportive family of all my past, present, and future endeavors; I do everything for them!
+U.S. Army combat veteran with 9 years of Active-Duty military service; active secret. Extremely passionate for exploring application development and workflows to make the world a more efficient and collaborative place! Infrequent guitar player and console gamer. Husband and father of a loving, overly supportive family of all my past, present, and future endeavors; I do everything for them. **Throw something my way to help me learn and grow!**
 
 ### **Current Studies**:
 - Microsoft Software & Systems Academy (MSSA) CCAD17 Student
