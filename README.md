@@ -4,17 +4,10 @@
 </p>
 
 <a href="https://BrennanMLong.pythonanywhere.com/link">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://BrennanMLong.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://BrennanMLong.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
-    />
-    <img alt="Current Spotify Song"> <!-- https://BrennanMLong.pythonanywhere/Spotify-Readme -->
-  </picture>
+  <img
+    src="https://BrennanMLong.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
 </a>
 
 ## A Little About Me:
