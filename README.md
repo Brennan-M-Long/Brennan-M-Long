@@ -3,6 +3,20 @@
   <img src="https://profile-counter.glitch.me/brennan-m-long/count.svg" />
 </p>
 
+<a href="https://BrennanMLong.pythonanywhere.com/link">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://BrennanMLong.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://BrennanMLong.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://BrennanMLong.pythonanywhere/Spotify-Readme -->
+  </picture>
+</a>
+
 ## A Little About Me:
 
 U.S. Army combat veteran with 9 years of Active-Duty military service; active secret. Extremely passionate for exploring application development and workflows to make the world a more efficient and collaborative place! Infrequent guitar player and console gamer. Husband and father of a loving, overly supportive family of all my past, present, and future endeavors; I do everything for them. **Throw something my way to help me learn and grow!**
