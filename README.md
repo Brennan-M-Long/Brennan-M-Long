@@ -26,8 +26,8 @@ U.S. Army combat veteran with 9 years of Active-Duty military service; active se
 - Git
 
 ### Stay in touch 🤝:
-| [Professional E-mail](mailto:brennanmlong@outlook.com) | [LinkedIn](https://www.linkedin.com/in/brennan-m-long) |
-| [HackerRank](https://www.hackerrank.com/profile/brennanmlong) | [LeetCode](https://leetcode.com/u/brennanmlong/) |
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=rounded-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/brennan-m-long)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=rounded-square&logo=gmail&logoColor=blue)](mailto:brennanmlong@outlook.com/)
 
 ### *My experience so far:*
 
