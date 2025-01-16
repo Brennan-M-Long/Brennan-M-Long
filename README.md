@@ -12,16 +12,12 @@ U.S. Army combat veteran with 9 years of federal service; active secret. Extreme
 - BS Computer Science | Columbus State University (Exp. 2027)
   - Former Cybersecurity student... Not a fan of the discipline. Don't know how you CSO guys and gals do it.
 
-### **Experience**: 
-
-Noob. 
-
 ### **Technical Skills... with some desciption**:
 
 - C#
-  - Data structures & Algorithms (*most of my knowledge currently derived from my MSSA CCAD cohort*)
+  - Data structures & Algorithms, App Dev, .NETMaui (*most of my knowledge currently derived from my MSSA CCAD cohort*)
 - SQL
-  - MySQL, Oracle, general query knowledge and development
+  - MySQL, Oracle, general queries and data development/analysis
 - Azure
 - ASP.NET
 - Visual Studio Community/Code
@@ -30,10 +26,8 @@ Noob.
 - Git
 
 ### Stay in touch 🤝:
-- [Professional E-mail](mailto:brennanmlong@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/brennan-m-long)
-- [HackerRank](https://www.hackerrank.com/profile/brennanmlong)
-- [LeetCode](https://leetcode.com/u/brennanmlong/)
+| [Professional E-mail](mailto:brennanmlong@outlook.com) | [LinkedIn](https://www.linkedin.com/in/brennan-m-long) |
+| [HackerRank](https://www.hackerrank.com/profile/brennanmlong) | [LeetCode](https://leetcode.com/u/brennanmlong/) |
 
 ### *My experience so far:*
 
