@@ -18,7 +18,7 @@ Husband and father of a loving, overly supportive family of all my past, present
   </i></b>
 </div>
 
-U.S. Army combat veteran with 9 years of Active-Duty military service; active secret. Results-driven individual with proven leader attributes and a team-player mindset. Recipient of multiple awards for professionalism and the commitment to growth.
+U.S. Army combat veteran with 9 years of Active-Duty military service; active secret. Results-driven individual with proven leader attributes and a team-player mindset. Recipient of multiple awards for professionalism and the commitment to personal and professional growth.
 
 <div align="left">
   <i><b>
