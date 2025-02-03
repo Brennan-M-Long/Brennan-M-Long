@@ -10,7 +10,7 @@
   </i></b>
 </div>
 
-Husband and father of a loving, overly supportive family of all my past, present, and future endeavors; I do everything for them.
+Husband to Alexis and father to my mini-me, Everett. A loving, overly supportive family of all my past, present, and future endeavors. I do everything because of and for them!
 
 <div align="left">
   <i><b>
