@@ -33,7 +33,6 @@ Fervent explorer of programming and application development, just wanting to mak
 ## **Academics** 🧠
 - [x] Microsoft Software & Systems Academy (MSSA) CCAD17 Student
 - [ ] BS Computer Science | Columbus State University (*Exp. 2027*)
-  - Former Cybersecurity student... Not a fan of the discipline. Don't know how you CSO guys and gals do it.
 
 
 ## **Technical Skills**💻
