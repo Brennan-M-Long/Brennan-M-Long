@@ -40,17 +40,11 @@ Fervent explorer of programming and application development, just wanting to mak
 ![C#](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)
 ![Git](https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000)
-![Python](https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000)
 ![Visual Studio](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000)
 ![MSSA Fundamentals](https://images.credly.com/size/100x100/images/493874a1-0600-4ff7-b8e5-7fa1d8449735/image.png)
 
 
-#### **Communicate🖋️ | Corroborate👏 | Challenge⚔️**
+#### **Communicate🖋️ | Corroborate👏**
 [![Outlook](https://img.icons8.com/?size=100&id=GXG9jA1uzZNn&format=png&color=000000)](mailto:brennanmlong@outlook.com/) 
 [![LinkedIn](https://img.icons8.com/?size=100&id=44019&format=png&color=000000)](https://www.linkedin.com/in/brennan-m-long) 
-[![CodeWars](https://img.icons8.com/?size=100&id=Jq3kxPQV5K0C&format=png&color=000000)](https://www.codewars.com/users/Brennan-M-Long)
-
-#### *My experience so far*
-
-![VbGIF](https://github.com/user-attachments/assets/794a8345-ff51-424b-896d-0dced65e7c61)
 
