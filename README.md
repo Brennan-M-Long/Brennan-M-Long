@@ -3,6 +3,10 @@
   <img src="https://profile-counter.glitch.me/brennan-m-long/count.svg" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brennan-M-Long)](https://github.com/anuraghazra/github-readme-stats)  
+
+[Brennan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brennan-M-Long)](https://github.com/anuraghazra/github-readme-stats)
+
 # A Little About Me:
 <div align="left">
   <i><b>
