@@ -44,7 +44,6 @@ Fervent explorer of programming and application development, just wanting to mak
 ![Git](https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000)
 ![Visual Studio](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000)
-![MSSA Fundamentals](https://images.credly.com/size/100x100/images/493874a1-0600-4ff7-b8e5-7fa1d8449735/image.png)
 
 
 #### **Communicate🖋️ | Corroborate👏**
